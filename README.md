@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Product Preview Component](https://product-preview-card-component-kappa-nine.vercel.app/)
+- Solution URL: [Product Preview Component](https://github.com/koolasys/product-preview-card-component)
 - Live Site URL: [Product Preview Component App](https://product-preview-card-component-kappa-nine.vercel.app/)
 
 ## My process
