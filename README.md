@@ -10,11 +10,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -34,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://product-preview-card-component-kappa-nine.vercel.app/)
-- Live Site URL: [Add live site URL here](https://product-preview-card-component-kappa-nine.vercel.app/)
+- Solution URL: [Product Preview Component](https://product-preview-card-component-kappa-nine.vercel.app/)
+- Live Site URL: [Product Preview Component App](https://product-preview-card-component-kappa-nine.vercel.app/)
 
 ## My process
 
